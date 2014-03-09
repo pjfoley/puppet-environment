@@ -17,6 +17,7 @@ mod 'saz/timezone', '2.0.0'
 mod 'saz/sudo', '3.0.2'
 mod 'saz/ssh', '2.2.0'
 mod 'saz/motd', '2.1.0'
+mod "nanliu/staging", '0.4.0'
 
 mod "dns",
   :git => 'git://github.com/ajjahn/puppet-dns.git',
