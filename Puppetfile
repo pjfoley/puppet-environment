@@ -26,3 +26,10 @@ mod "dns",
 mod 'dotfiles',
   :git => 'git://github.com/pjfoley/puppet-dotfiles.git',
   :ref => '0.1.1'
+
+mod "profile",
+  :git => 'git://github.com/pjfoley/puppet-profile.git'
+
+mod "role",
+  :git => 'git://github.com/pjfoley/puppet-role.git'
+
