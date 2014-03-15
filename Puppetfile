@@ -25,4 +25,4 @@ mod "dns",
 
 mod 'dotfiles',
   :git => 'git://github.com/pjfoley/puppet-dotfiles.git',
-  :reg => '0.1.1'
+  :ref => '0.1.1'
