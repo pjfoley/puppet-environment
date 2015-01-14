@@ -11,6 +11,6 @@ node 'default' {
     dotfiles => '/root/.dotfiles',
     owner => 'root',
     group => 'root',
-    require => Vcsrepo[/root/.dotfiles],
+    require => Vcsrepo['/root/.dotfiles'],
   }
 }
